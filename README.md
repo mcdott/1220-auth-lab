@@ -312,3 +312,4 @@ If you'd like more resources on working with Flask-Login, check out the followin
 - [Intro to Flask-Login [VIDEO]](https://www.youtube.com/watch?v=K0vSCCAM2ss) - an excellent 35 minute walkthrough that gives you the basics.
 - [Python Flask Tutorial: User Authentication [VIDEO]](https://www.youtube.com/watch?v=CSHx6eCkmv0)
 - [Flask-Login Quickstart](https://flask-login.readthedocs.io/en/latest/)
+# 1220-auth-lab
